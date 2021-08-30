@@ -2,7 +2,7 @@
 A repository that simulates the GSOC Open-CV, Ideas projects and challenges.
 
 This repo has been inspired by the Open-VC GSoC 2021 repository, this contains folders which have projects that use Open-CV to solve problems.
-Will be adding more repositories and projects, stay tuned or star, stay tuned!
+Will be adding more repositories and projects, stay tuned or star.
 Upcoming projects: 
 
 i.Face recognition
