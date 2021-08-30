@@ -11,5 +11,6 @@ ii.QR recognition
 
 iii.OCR and translation(latin based)
 
+
 more on the roadmap
 Still under construction, please do check out their repository: https://github.com/opencv/opencv/wiki/GSoC_2021
