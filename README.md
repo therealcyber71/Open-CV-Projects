@@ -5,11 +5,9 @@ This repo has been inspired by the Open-VC GSoC 2021 repository, this contains f
 Will be adding more repositories and projects, stay tuned or star.
 Upcoming projects: 
 
-i.Face recognition
-
-ii.QR recognition
-
-iii.OCR and translation(latin based)
+1. OCR based visual translator written in Python
+2. QR code based verifier using pyzbar
+3. More projects will be uploaded
 
 
 more on the roadmap
